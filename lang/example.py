@@ -14,4 +14,5 @@ strings = {
     "completed_label": "Completed",
     "download_success": "Downloaded Succsessfully",
     "download_error": "An error occurd. please retry. check error log & open an issue on github if this error returns.",
+    
 }
