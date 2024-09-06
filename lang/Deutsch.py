@@ -12,6 +12,6 @@ strings = {
     "queue_label": "Download Warteschlange",
     "completed_label": "Abgeschlossen",
     "download_success": "erfolgreich heruntergeladen!",
-    "download_error": "Ein Fehler ist aufgetreten! bitte überprüfe die logs und öffne ein issue auf github, sollte der fehler erneurt auftreten. ",
+    "download_error": "Ein Fehler ist aufgetreten! bitte überprüfe die logs und öffne ein issue auf github, sollte der fehler erneurt auftreten. :  ",
     
 }

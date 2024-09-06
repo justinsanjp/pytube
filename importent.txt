@@ -1,0 +1,24 @@
+You have to install manually from source wehn you ussing windows11!
+do this:
+winget install Git.Git
+cd "C:\Program Files\Git\bin"
+open command prompt here. just click in your current dirctory and wirte cmd in the file path it opens a cmd.
+make sure you have installed python 3.22 with pip. (you have it wehn you allrady run the setup.bat file.)
+and type in the command prompt:
+pip install git+https://github.com/pytube/pytube
+
+Thats it.
+
+Wehn you are use Win11 you get an windows admin window, to avoid permisson problems.
+On win10 you can run it without admin permissons.
+
+Dont Worry it is safe, you can see the code actually, so if you dont trust me, take the code of main.py and ask chatgpt if you dont have any python knowladge.
+
+need help? open a issue on GitHub or join my discord server.
+Github: https://github.com/justinsanjp/pytube/issues
+Discord: https://discord.gg/6CH3FAWHxs
+
+// INFO //
+Pytube is a Libary that helps to acsses YouTube and thier api without own api credentials. we are not the same, im not in contact with the pytube team.
+
+i called my project pytube, becouse i diddent know a beter name, if you have a better name for me, tell it me on discord. the community will decide a new name.
